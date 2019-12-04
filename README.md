@@ -1,7 +1,8 @@
 # Corno Run
 Game meme  
 Created by:  
-  Bruno Freança do Prado  
+
+  Bruno França do Prado  
   João Vítor de Souza Câmara  
   Rafael Maquiné Lopes  
   

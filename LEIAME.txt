@@ -1,0 +1,29 @@
+|CORNO RUN|
+
+COMO JOGAR: 
+O jogo começa no menu onde temos duas opções, começar o jogo (clicando na barra de espaço), ou clicando no botão c para ler os créditos
+(uma vez dentro dos créditos, basta apertar a tecla "esc" para sair). Uma vez começado o jogo, o jogador tem apenas que apertar a barra de espaço para pular e
+desviar dos cachorros que vem em sua direção, se ele quiser reiniciar a fase, basta apertar R e se quiser sair do jogo, basta apertar X.
+
+COMO INSTALAR:
+Apenas abra a pasta disponibilizada através de um DLE que possua a linguagem Python.
+
+Corno Run foi desenvolvido com o intuito de abraçar todos os cornos do Brasil.
+Tendo como personagem principal Birk, o corninho, seu objetivo é correr o mais longe possível pra tentar esquecer o chifre.
+Mas como todo castigo pra corno é pouco, Birky se encontra num loop, não importa o quanto ele corra, o chifre vai junto.
+
+
+
+UNIVERSIDADE DO ESTADO DO AMAZONAS - UEA
+BACHARELADO EM SISTEMAS DE INFORMAÇÃO
+LABORATÓRIO DE PROGRAMAÇÃO DE COMPUTADORES
+PROF.DR. JUCIMAR JR
+
+Bruno França do Prado - Developer
+João Vitor de Souza Câmara - Main Developer
+Rafael Maquiné Lopes - Designer
+
+- Sprites
+https://ansimuz.itch.io/cyberpunk-street-environment
+https://ansimuz.itch.io/gothicvania-patreon-collection
+https://craftpix.net/freebies/free-pixel-art-tiny-hero-sprites/
